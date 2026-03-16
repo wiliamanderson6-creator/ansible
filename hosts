@@ -1,0 +1,8 @@
+[webservers]
+#192.168.146.129 ansible_user=admin ansible_password=Ash%19ley ansible_become=true ansible_become_password=Ash%19ley
+
+[otherservers]
+192.168.146.130 ansible_user=admin absible_password=Ash%19ley ansible_become=true ansible_become_password=Ash%19ley
+
+[dbservers]
+192.168.146.131 ansible_user=admin ansible_password=Ash%19ley ansible_become=true ansible_become_password=Ash%19ley
